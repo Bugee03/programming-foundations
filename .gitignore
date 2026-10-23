@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+.vscode/
+cmake-build-*/
+build/
+# compiled programs
+app
+app2
+newapp
+a.out
+*.o
+*.out
+*.exe
